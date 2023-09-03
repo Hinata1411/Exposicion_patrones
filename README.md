@@ -13,3 +13,5 @@ Factory Method es un patrón de diseño creacional que proporciona una interfaz 
 4. Prototype, Prototipo, Clon o Clone este nos permite copiar objetos existentes sin que el código dependa de sus clases.
 
 5.Singleton o Instancia Única que podemos implementarlo ya nos permite asegurarnos de que una clase tenga una única instancia, a la vez que proporciona un punto de acceso global a dicha instancia.
+
+Link de la presentación: https://docs.google.com/presentation/d/1ESSyINu__4fNJHRicqqxMzlolgf6AKAx/edit?usp=sharing&ouid=111896113123492265439&rtpof=true&sd=true
